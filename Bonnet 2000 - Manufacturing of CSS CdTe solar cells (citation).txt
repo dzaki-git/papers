@@ -1,0 +1,11 @@
+Dieter Bonnet,
+Manufacturing of CSS CdTe solar cells,
+Thin Solid Films,
+Volumes 361–362,
+2000,
+Pages 547-552,
+ISSN 0040-6090,
+https://doi.org/10.1016/S0040-6090(99)00831-7.
+(https://www.sciencedirect.com/science/article/pii/S0040609099008317)
+Abstract: Due to its basic physical and chemical properties CdTe has become a favoured base material for thin film solar cells, using robust, high-throughput manufacturing procedures. The technology shows significant potential for attaining cost levels of <0.5 Euro/Wp. Close-spaced sublimation (CSS) is the fastest and simplest deposition process for both semiconductors used, CdTe and CdS, permitting in-line production at a high linear speed of about 1 m/min. The individual manufacturing steps for integrated modules are explained in view of their incorporation into the production line. ANTEC solar GmbH is engaged to enter the production of CdTe thin film modules on a scale of 10 MWp (100 000 m2) per annum, using CSS as the deposition procedure for the semiconductor films, and high-rate in-line sputtering for transparent and opaque contacts. Standard module size will be 60×120 cm2. The production line is presently under construction.
+Keywords: CdTe; Thin film solar cells; Close-spaced sublimation

@@ -1,0 +1,11 @@
+Jaehyeong Lee,
+Comparison of CdS films deposited by different techniques: Effects on CdTe solar cell,
+Applied Surface Science,
+Volume 252, Issue 5,
+2005,
+Pages 1398-1403,
+ISSN 0169-4332,
+https://doi.org/10.1016/j.apsusc.2005.02.110.
+(https://www.sciencedirect.com/science/article/pii/S0169433205004873)
+Abstract: Polycrystalline cadmium sulfide (CdS) thin-films were deposited on glass substrate by chemical bath deposition (CBD) and vacuum evaporation (VE) techniques. VE-CdS films consisted primarily of hexagonal phase, whereas CBD CdS films containing primarily the cubic form. VE-grown films were shown to have better crystallinity than CBD-grown films. The grain size of the CBD films is smaller than the ones of VE films. VE-CdS films exhibited relatively high transmittance in the above-gap region and band gap compared with CBD films. However, CdTe solar cells with these low quality CBD–CdS layers yield higher and more stable characteristics. Current–voltage–temperature measurements showed that the current transport for both cells was controlled by both tunneling and interface recombination but the cells with CBD–CdS displayed less tunneling.
+Keywords: Cadmium sulphide; Chemical bath deposition; Vacuum evaporation; Cadmium telluride; Solar cells
